@@ -1,0 +1,17 @@
+{
+  "name": "nooga-republic",
+  "version": "1.0.0",
+  "description": "Automate paying for parking",
+  "main": "index.js",
+  "scripts": {
+    "test": "bash enviroment.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^2.2.1",
+    "dotenv": "^8.0.0",
+    "puppeteer": "^1.19.0"
+  }
+}
